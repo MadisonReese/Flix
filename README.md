@@ -25,4 +25,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
-The only challenge I ran into was I mistyped the baseUrl as "imbd" when it was supposed to be "imdb", and could not figure out why... After a few hours of experimenting I finally saw the mistake.
+The only challenge I ran into was I mistyped the baseUrl as "imbd" when it was supposed to be "imdb", and could not figure out why my images would not show... After a few hours of experimenting I finally saw the mistake.
