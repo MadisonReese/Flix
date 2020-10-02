@@ -19,7 +19,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/8DftZQHVr0.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Can not make the navigation bar more transluscent. I can either make it transparent or only slightly transluscent. 
+
 ---
 
 ## Flix Part 1
@@ -40,5 +41,4 @@ Describe any challenges encountered while building the app.
 <img src="http://g.recordit.co/EIp469yId2.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
 The only challenge I ran into was I mistyped the baseUrl as "imbd" when it was supposed to be "imdb", and could not figure out why my images would not show... After a few hours of experimenting I finally saw the mistake.
